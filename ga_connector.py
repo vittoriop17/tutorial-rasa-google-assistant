@@ -75,8 +75,3 @@ class GoogleConnector(InputChannel):
             return response.json(r)				
           		
         return google_webhook
-
-		
-		
-		
-	
